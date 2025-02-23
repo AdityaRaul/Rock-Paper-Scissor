@@ -15,5 +15,5 @@ A simple web-based Rock, Paper, Scissors game created using HTML, CSS, and JavaS
 
 # Rock Paper Scissor Demo
 Check a live demo of Rock Paper Scissors
-https://C:/Users/ADITYA/Desktop/Javascript/Rock%20Paper%20Scissor/index.html
+https://github.com/user-attachments/assets/56c258a4-b527-452c-a40d-8629582cf052
 
