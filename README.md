@@ -6,8 +6,7 @@ A simple web-based Rock, Paper, Scissors game created using HTML, CSS, and JavaS
 - **Computer Move**: The computer's move is randomly selected.
 - **Result Display**: The game displays whether the user won, lost, or tied after each round.
 - **Score Tracking**: Displays the user's score and the computer’s score.
-- **Responsive Design**: The game is fully responsive and works well on both desktop and mobile devices.
-
+- **JavaScript Logic**: Game logic to compare the user's choice with the computer's choice and determine the winner.
 # Technologies Used
 - HTML
 - CSS
